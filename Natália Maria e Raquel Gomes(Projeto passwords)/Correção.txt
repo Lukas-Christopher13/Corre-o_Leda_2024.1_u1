@@ -1,0 +1,41 @@
+Grupo : Natália Maria e Raquel Gomes
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Sem problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - O projeto possui regras claras para a sua execução.
+
+  [Sem problemas]
+b) Execução do projeto sem demais problemas: 
+    
+    - Não tive problemas aqui.
+
+
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+  [Sem problemas]
+b) Correção das ordenações
+
+   - Todos os algoritimos de ordenalção forma implementados e funcionam sem problemas.
+
+     obs: Todas as ordenações são realizadas em memória, elas não são salvas nos arquivos.    
+
+3- Aspectos de qualidade do código (20%)
+
+  [Sem grandes problemas]
+a) Modularização
+  
+  - O projeto possui pouca modularização, os algoritimos de ordenação estão todos no mesmo arquivo e não existem pastas separando
+    as diferentes partes do projeto. 
+      
+  [Sem problemas]
+b) Algoritmos de ordenação
+   
+   - Todos os algoritimos de ordenação foram implementados sem grandes problemas. Mias a equipe poderia ter pensado em utilizar
+     uma estrategia polimorfica para evitar de ter de escrever uma verção de cada algoritimo para cada tipo de dado difernete.
+
+
