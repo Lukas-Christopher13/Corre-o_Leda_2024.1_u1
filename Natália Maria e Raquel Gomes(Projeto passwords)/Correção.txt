@@ -17,6 +17,17 @@ b) Execução do projeto sem demais problemas:
 
 a) Correção das transformações
 
+ [Sem prblemas]
+   1- Transformar data para o formato a seguir DD/MM/AAAA Gerar um arquivo chamado passwords_formated_data.csv
+      
+      - Todas as datas forma transformadas.
+   
+    [Sem problemas]
+   2- Filtrar senha pela categória Boa e Muito Boa.
+      
+      - As senhas foram filtradas sem problemas.
+  
+
   [Sem problemas]
 b) Correção das ordenações
 
@@ -29,13 +40,13 @@ b) Correção das ordenações
   [Sem grandes problemas]
 a) Modularização
   
-  - O projeto possui pouca modularização, os algoritimos de ordenação estão todos no mesmo arquivo e não existem pastas separando
-    as diferentes partes do projeto. 
+   - O projeto possui pouca modularização, os algoritimos de ordenação estão todos no mesmo arquivo e não existem pastas separando
+     as diferentes partes do projeto. 
       
   [Sem problemas]
 b) Algoritmos de ordenação
    
-   - Todos os algoritimos de ordenação foram implementados sem grandes problemas. Mias a equipe poderia ter pensado em utilizar
+   - Todos os algoritimos de ordenação foram implementados sem grandes problemas. Mais a equipe poderia ter pensado em utilizar
      uma estrategia polimorfica para evitar de ter de escrever uma verção de cada algoritimo para cada tipo de dado difernete.
 
 

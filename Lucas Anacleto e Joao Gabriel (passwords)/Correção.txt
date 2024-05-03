@@ -32,7 +32,7 @@ b) Correção das ordenações
 
    - Todos os algoritimos de ordenalção forma implementados e funcionam sem problemas.
 
-     obs: Todas as ordenações são realizadas em memória, elas não são salvas nos arquivos.    
+     obs: os arquivos são ordenados e os resultados das ordenações são salvos
 
 3- Aspectos de qualidade do código (20%)
 
@@ -43,6 +43,9 @@ a) Modularização
       
   [Sem problemas]
 b) Algoritmos de ordenação
+    
+  - O algoritimos de ordenação não apresentaram problemas, mais o grupo poderia ter uilizado uma estrategia com polimorfismo para
+    evitar o ter de fazer uma methodo para cada tipo de dado a ser ordenado.
    
    
 
