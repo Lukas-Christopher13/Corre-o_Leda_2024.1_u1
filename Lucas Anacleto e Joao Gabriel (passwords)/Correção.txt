@@ -1,0 +1,48 @@
+Grupo : Lucas Anacleto e Joao Gabriel
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Sem problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - O projeto possui regras claras para a sua execução.
+
+  [Sem problemas]
+b) Execução do projeto sem demais problemas: 
+    
+    - Não tive problemas aqui.
+
+
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    [Sem prblemas]
+   1- Transformar data para o formato a seguir DD/MM/AAAA Gerar um arquivo chamado passwords_formated_data.csv
+      
+      - Todas as datas forma transformadas.
+   
+    [Sem problemas]
+   2- Filtrar senha pela categória Boa e Muito Boa.
+      
+      - As senha foram filtradas sem problemas.
+
+  [Sem problemas]
+b) Correção das ordenações
+
+   - Todos os algoritimos de ordenalção forma implementados e funcionam sem problemas.
+
+     obs: Todas as ordenações são realizadas em memória, elas não são salvas nos arquivos.    
+
+3- Aspectos de qualidade do código (20%)
+
+  [Sem grandes problemas]
+a) Modularização
+  
+  - O projeto possui pouca modularização, o grupo poderia ter tirado um tempo para organizar melhor os diferentes arquivos do projeto em pastas.
+      
+  [Sem problemas]
+b) Algoritmos de ordenação
+   
+   
+
