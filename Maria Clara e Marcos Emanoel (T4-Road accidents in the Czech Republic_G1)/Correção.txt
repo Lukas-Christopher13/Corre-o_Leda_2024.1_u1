@@ -1,0 +1,36 @@
+Grupo : Marcos Emanuel Souza Braga de Farias e Maria Clara Torres Franca de Aguiar
+
+OBS: O projeto entregue nao corresponde ao projeto solicitado pelo professor. Aparentemente o projeto entregue pela equipe corresponde a diciplina EDA e nao
+     a LEDA, pois o arquivo do projeto contem o nome do professor: Heron Aragão Monteiro. 
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Com problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    
+  [Com Problemas]
+b) Execução do projeto sem demais problemas: 
+
+  
+  [Não corrigi por conta dos problemas acima]
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    
+b) Correção das ordenações
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem modularização]
+a) Modularização
+  
+
+  [Com problemas]
+b) Algoritmos de ordenação
+   
+   
+
+
