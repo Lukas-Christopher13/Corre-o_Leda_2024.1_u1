@@ -1,0 +1,39 @@
+Grupo : Antonio Wenicius e Joao Roberto
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Com problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - As regrado do projeto sao um tanto confusas, e nao trabalha questoes importantes para o funcionamento do projeto como por exemplo
+      o diretorio onde os arquivos base devem ser postos.
+
+  [Com Problemas]
+b) Execução do projeto sem demais problemas: 
+
+    - O projeto em si nao, funciona por conta de prblemas com a localizacao dos arquivos base para as operacoes, contudo a equipe disponibilizou no github
+      um drive contendo uma vercao do projeto bem desorganizada onde e possivel executar o projeto. E sera esse codigo que eu irei avaliar
+    
+  [Não corrigi por conta dos problemas acima]
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    
+b) Correção das ordenações
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem modularização]
+a) Modularização
+  
+ - O Projeto não possui modularização! Todos os arquivos estao juntos e meisturados na mesma pasta
+ 
+  [Com problemas]
+b) Algoritmos de ordenação
+   
+   - Os algoritimos de ordenacao utilizam "ArrayList" oque e proibido ja que nessa fase da diciplina os alunos devem trabalhar apenas
+     com array.
+
+
