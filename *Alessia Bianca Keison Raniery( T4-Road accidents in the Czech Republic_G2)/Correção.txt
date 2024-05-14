@@ -6,7 +6,6 @@ Grupo : Alessia Bianca Keison Raniery
 a) Regras claras de como executar o projeto (qualidade das instruções): 
 
    
-
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
 
