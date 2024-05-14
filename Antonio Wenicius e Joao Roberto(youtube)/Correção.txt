@@ -12,7 +12,8 @@ a) Regras claras de como executar o projeto (qualidade das instruções):
 b) Execução do projeto sem demais problemas: 
 
     - O projeto em si nao, funciona por conta de prblemas com a localizacao dos arquivos base para as operacoes, contudo a equipe disponibilizou no github
-      um drive contendo uma vercao do projeto bem desorganizada onde e possivel executar o projeto. E sera esse codigo que eu irei avaliar
+      um drive contendo uma vercao do projeto bem desorganizada onde e possivel executar o projeto. Porem ao tentat executar essa vercao nao tive exito, 
+      o codigo esta incompleto e desorganizado, com objetos/classes staticas faltando em seu "Main" dessa forma nao cosegui executar esse projeto
     
   [Não corrigi por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
