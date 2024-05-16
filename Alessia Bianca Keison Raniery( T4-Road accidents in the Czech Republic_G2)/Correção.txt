@@ -1,15 +1,23 @@
 Grupo : Alessia Bianca Keison Raniery
 
+OBS: Entregue com atraso de "0.4" dias
+
 1- Aspectos relacionados com instalação (10%)
 
   [Com problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
-
    
+   - Apesar das regras claras não obitive sucesso ao seguilas para executar o projeto. Não consegui instalar a biblioteca "poi"
+     que é requerida para a execução do projeto. Tentei instala-la várias veses mais sem sucesso. Tanto por .classpath quanto pelo
+     maven, oqual o grupo não utilizou. Por certo, se a equi tivesse se atentado a uilização do maven eu teria conseguido rodar
+     o projeto sem grandes problemas.
+
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
+   
+   - Como mensionado a cima, não consegui executar o projeto. Vale resaltar tambem que pela analise do codigo que eu fiz, eu iria ter
+     problemas com os diretorios dos arquivos, que porserem strings staticas, so funcionariam na maquina da equipe.   
 
-    
   [Não corrigi por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
 
