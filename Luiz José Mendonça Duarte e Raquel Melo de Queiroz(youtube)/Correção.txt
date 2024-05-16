@@ -1,7 +1,7 @@
 Grupo : Luiz José Mendonça Duarte e Raquel Melo de Queiroz
 
-OBS: Nao foi possivel executar esse projeto, o projeto nao apresenta arquivos ".java" e sim arquivos binarios ".class", oque imposibilitou a execucao do
-     programa. Tentei executar o codigo com o a ide sugerida pelo grupo o "IntelliJ IDEA" mais nao funcionou, e o problema dos arquivos ".class" persistiu. 
+OBS: Nao foi possivel executar esse projeto, o projeto não apresenta arquivos ".java" e sim arquivos binários ".class", o'que impossibilitou a execução do
+     programa. Tentei executar o código com a ideia sugerida pelo grupo o "IntelliJ IDEA" mas não funcionou, e o problema dos arquivos ".class" persistiu. 
 
 
 1- Aspectos relacionados com instalação (10%)
@@ -14,7 +14,7 @@ a) Regras claras de como executar o projeto (qualidade das instruções):
 b) Execução do projeto sem demais problemas: 
 
   
-  [Não corrigi por conta dos problemas acima]
+  [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
 
 a) Correção das transformações
@@ -32,6 +32,7 @@ a) Modularização
   [Com problemas]
 b) Algoritmos de ordenação
    
+
    
 
 

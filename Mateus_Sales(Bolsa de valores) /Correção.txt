@@ -21,30 +21,30 @@ a) Correção das transformações
     - Os arquivos csv de transformação não possuem a primeira linha que nomeia as colunas! (datetime, tickte, open...)
 
          [Sem Problemas]
-       1- Transformar data (datetime) para DD/MM/AAAA. Atualmente o formato está YYY-MM-DD. 1994-07-04
+       1- Transformar data (datetime) para DD/MM/AAAA. Atualmente o formato é YYY-MM-DD. 1994-07-04
           Gerar um arquivo chamado b3stocks_T1.csv:
        
          [Com problemas]
        2- Considerando o arquivo anterior, fazer uma filtragem para que fique apenas um registro por dia. Esse registro deve ser 
-          apenas quele que possuir o maior volume negociado em bolsa.
+          apenas aquele que possuir o maior volume negociado em bolsa.
 
            - A filtragem realizada pelo grupo está incorreta! Filtrei a tabela utilizando o pandas e percebi que muitos dos valores
-             filtrados pelo grupo não são condizentes com o real maior valor da transação para tal data especifica.
+             filtrados pelo grupo não são condizentes com o real maior valor da transação para tal data específica.
          
          [Com problemas]      
        3- Considerando o arquivo da transformação T1 (b3stocks_T1.csv), fazer uma filtragem para que fique apenas os registros que 
           possuírem volume negociado acima da média diária.
 
-           - A filtragem realizada apresenta valores abixo da média! Calculando a média das transações obitive o seguinte valor:
-             '16682861.888060307' Contudo o arquivo 'b3stocks_T1.csv' apresenta valores abixo dessa média.
+           - A filtragem realizada apresenta valores abaixo da média! Calculando a média das transações obtive o seguinte valor:
+             '16682861.888060307' Contudo o arquivo 'b3stocks_T1.csv' apresenta valores abaixo dessa média.
 
   [Com Problemas]
 b) Correção das ordenações
 
-    - Metade do codigo do arquivo Main.java está comentado!
-    - Ao clonar o projeto, obtemos todos os arquivos que devem ser ordenados pelos diferentes algoritimos. Contudo, vasculhando o 
-      codigo encontrei apenas a implementação do quick, heap e merge sort.
-    - O arquivo 'b3stocks_T1.csv' não é ordenando! Apenas uma de susas colunas é ordenada.
+    - Metade do código do arquivo Main.java está comentado!
+    - Ao clonar o projeto, obtemos todos os arquivos que devem ser ordenados pelos diferentes algoritmos. Contudo, vasculhando o 
+      No código encontrei apenas a implementação do quick, heap e merge sort.
+    - O arquivo 'b3stocks_T1.csv' não é ordenado! Apenas uma de suas colunas é ordenada.
 
      *obs: todas as ordenações são realizadas em memória, e seus resultados não são salvos nos arquivos.
         
@@ -62,6 +62,8 @@ a) Modularização
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Como citado anteriormente, apenas tres algoritmos de ordenação forma implementados!
+   - Como citado anteriormente, apenas três algoritmos de ordenação foram implementados!
+
+
 
 

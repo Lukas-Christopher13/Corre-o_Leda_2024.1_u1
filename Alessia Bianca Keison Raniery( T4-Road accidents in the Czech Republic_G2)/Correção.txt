@@ -7,18 +7,18 @@ OBS: Entregue com atraso de "0.4" dias
   [Com problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
    
-   - Apesar das regras claras não obitive sucesso ao seguilas para executar o projeto. Não consegui instalar a biblioteca "poi"
-     que é requerida para a execução do projeto. Tentei instala-la várias veses mais sem sucesso. Tanto por .classpath quanto pelo
-     maven, oqual o grupo não utilizou. Por certo, se a equi tivesse se atentado a uilização do maven eu teria conseguido rodar
+   - Apesar das regras claras não obtive sucesso ao segui-las para executar o projeto. Não consegui instalar a biblioteca "poi"
+     que é requerida para a execução do projeto. Tentei instalá-la várias vezes, mas sem sucesso. Tanto por .classpath quanto pelo
+     maven, oqual o grupo não utilizou. Por certo, se a equi tivesse se atentado a utilização do maven eu teria conseguido rodar
      o projeto sem grandes problemas.
 
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
    
-   - Como mensionado a cima, não consegui executar o projeto. Vale resaltar tambem que pela analise do codigo que eu fiz, eu iria ter
-     problemas com os diretorios dos arquivos, que porserem strings staticas, so funcionariam na maquina da equipe.   
+   - Como mencionado acima, não consegui executar o projeto. Vale ressaltar também que pela análise do código que eu fiz, eu iria ter
+     problemas com os diretórios dos arquivos, que por serem strings estáticas, só funcionam na máquina da equipe.   
 
-  [Não corrigi por conta dos problemas acima]
+  [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
 
 a) Correção das transformações
@@ -32,13 +32,13 @@ b) Correção das ordenações
   [Sem problemas]
 a) Modularização
   
-   - O Projeto possui uma modularizacao resoavel, temos duas pastas, uma para a os algoritimos e outra para as transformacoes. 
+   - O Projeto possui uma modularização razoável, temos duas pastas, uma para os algoritmos e outra para as transformações. 
       
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Utilizacao de estruturas de dados dinamica (ArrayList). Essas estruturas de dados sao utilizadas em conjunto com uma biblioteca para
-     trabalhar com arquivos .csv, mais no final esses "ArraysList" sao convertidos em arrays normais, e sao esses arrays que sao utilizados
-     para as ordenacoes. 
+   - Utilização de estruturas de dados dinâmicas (ArrayList). Essas estruturas de dados são utilizadas em conjunto com uma biblioteca para
+     trabalhar com arquivos .csv, mas no final esses "ArrayList" são convertidos em arrays normais, e são esses arrays que são utilizados
+     para as ordenações. 
 
 

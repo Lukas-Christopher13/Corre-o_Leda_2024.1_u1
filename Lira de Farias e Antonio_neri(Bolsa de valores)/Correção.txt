@@ -1,4 +1,4 @@
-Grupo : Lira de Farias e Antonio_neri
+Grupo : Lira de Farias e Antonio Neri
 
 1- Aspectos relacionados com instalação (10%)
 
@@ -10,11 +10,11 @@ a) Regras claras de como executar o projeto (qualidade das instruções):
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
 
-    - O projeto não possui um arquivo 'main' para a execução do projeto, todos os arquivos são executaveis, de modo que para executar
-      todo o projeto, temos que executar um por um cada arquivo. Alem de que, para executar o projeto em sua copletude temos que ir de
-      arquivo em arquivo alterado a variavel que armazena o caminho para o diretório "b3_stocks_1994_2020.csv", que não existe no projeto.
+    - O projeto não possui um arquivo 'main' para a execução do projeto, todos os arquivos são executados, de modo que para executar
+      todo o projeto, temos que executar um por um cada arquivo. Além de que, para executar o projeto em sua completude temos que ir de
+      arquivo em arquivo alterado a variável que armazena o caminho para o diretório "b3_stocks_1994_2020.csv", que não existe no projeto.
 
-  [Não corrigi por conta dos problemas acima]
+  [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
 
 a) Correção das transformações
@@ -29,11 +29,12 @@ b) Correção das ordenações
 a) Modularização
   
  - O Projeto não possui modularização! Todos os arquivos '.java' estão jogados na pasta do projeto. Não existe pastas separando os
-   diferentes tipos de arquivos .java! Tambem é mistura de arquivos .java e .class!
+   diferentes tipos de arquivos .java! Também é mistura de arquivos .java e .class!
       
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Como citado anteriormente, apenas tres algoritmos de ordenação forma implementados!
+   - Como citado anteriormente, apenas três algoritmos de ordenação foram implementados!
+
 
 

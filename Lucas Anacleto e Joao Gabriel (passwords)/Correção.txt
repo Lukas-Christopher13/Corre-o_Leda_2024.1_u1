@@ -1,4 +1,4 @@
-Grupo : Lucas Anacleto e Joao Gabriel
+Grupo : Lucas Anacleto e João Gabriel
 
 1- Aspectos relacionados com instalação (10%)
 
@@ -17,20 +17,20 @@ b) Execução do projeto sem demais problemas:
 
 a) Correção das transformações
 
-    [Sem prblemas]
+    [Sem problemas]
    1- Transformar data para o formato a seguir DD/MM/AAAA Gerar um arquivo chamado passwords_formated_data.csv
       
-      - Todas as datas forma transformadas.
+      - Todas as datas foram transformadas.
    
     [Sem problemas]
-   2- Filtrar senha pela categória Boa e Muito Boa.
+   2- Filtrar senha pela categoria Boa e Muito Boa.
       
       - As senha foram filtradas sem problemas.
 
   [Sem problemas]
 b) Correção das ordenações
 
-   - Todos os algoritimos de ordenalção forma implementados e funcionam sem problemas.
+   - Todos os algoritmos de ordenação foram implementados e funcionam sem problemas.
 
      obs: os arquivos são ordenados e os resultados das ordenações são salvos
 
@@ -44,8 +44,8 @@ a) Modularização
   [Sem problemas]
 b) Algoritmos de ordenação
     
-  - O algoritimos de ordenação não apresentaram problemas, mais o grupo poderia ter uilizado uma estrategia com polimorfismo para
-    evitar o ter de fazer uma methodo para cada tipo de dado a ser ordenado.
+  - O algoritmos de ordenação não apresentaram problemas, mais o grupo poderia ter utilizado uma estratégia com polimorfismo para
+    evitar ter de fazer um método para cada tipo de dado a ser ordenado.
    
-   
+
 

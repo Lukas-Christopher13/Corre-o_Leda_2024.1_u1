@@ -1,12 +1,12 @@
-Grupo : Lucas Emanuel Ramos Silva e Laryssa Finizola Costa da Silvia
+Grupo : Lucas Emanuel Ramos Silva e Laryssa Finizola Costa da Silva
 
 
-OBS: O grupo enviou um projeto sem os arquivos .java, o projeto e composto apenas de arquivos .class! Oque imposibilita 
-     qualquer tipo de execucao. Ja que arquvios .class sao os binarios interpretados pela jvm.
+OBS: O grupo enviou um projeto sem os arquivos .java, o projeto é composto apenas de arquivos .class! O'Que impossibilita 
+     qualquer tipo de execução. Já que arquivos .class são os binários interpretados pela jvm.
 
 1- Aspectos relacionados com instalação (10%)
 
-  [Nao possui regras de como executar o programa]
+  [Não possui regras de como executar o programa]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
 
 
@@ -14,7 +14,7 @@ a) Regras claras de como executar o projeto (qualidade das instruções):
 b) Execução do projeto sem demais problemas: 
 
     
-  [Não corrigi por conta dos problemas acima]
+  [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
 
 a) Correção das transformações
@@ -25,14 +25,15 @@ b) Correção das ordenações
    
 3- Aspectos de qualidade do código (20%)
 
-  [Pouca modularizacao]
+  [Pouca modularização]
 a) Modularização
   
-   - O projeto possui duas pastas, uma com os algoritimos e outra com as tranformacoes, todas com arquivos .class. 
+   - O projeto possui duas pastas, uma com os algoritmos e outra com as transformações, todas com arquivos .class. 
       
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Nao pude avaliar por conta dos que o grupo enviu apenas arquivos .class ao invez de .java
+   - Não pude avaliar por conta dos que o grupo enviou apenas arquivos .class ao invés de .java
+
 
 

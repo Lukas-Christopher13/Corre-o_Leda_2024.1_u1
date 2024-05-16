@@ -1,21 +1,21 @@
-Grupo : Antonio Wenicius e Joao Roberto
+Grupo : Antonio Winicius e João Roberto
 
 1- Aspectos relacionados com instalação (10%)
 
   [Com problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
 
-    - As regrado do projeto sao um tanto confusas, e nao trabalha questoes importantes para o funcionamento do projeto como por exemplo
-      o diretorio onde os arquivos base devem ser postos.
+    - As regrado do projeto são um tanto confusas, e não trabalha questões importantes para o funcionamento do projeto como por exemplo
+      o diretório onde os arquivos base devem ser postos.
 
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
 
-    - O projeto em si nao, funciona por conta de prblemas com a localizacao dos arquivos base para as operacoes, contudo a equipe disponibilizou no github
-      um drive contendo uma vercao do projeto bem desorganizada onde e possivel executar o projeto. Porem ao tentat executar essa vercao nao tive exito, 
-      o codigo esta incompleto e desorganizado, com objetos/classes staticas faltando em seu "Main" dessa forma nao cosegui executar esse projeto
+    - O projeto em si nao, funciona por conta de problemas com a localização dos arquivos base para as operações, contudo a equipe disponibilizou no github
+      um drive contendo uma versão do projeto bem desorganizada onde é possível executar o projeto. Porém ao tentar executar essa versao nao tive exito, 
+      o código está incompleto e desorganizado, com objetos/classes estáticas faltando em seu "Main" dessa forma nao consegui executar esse projeto
     
-  [Não corrigi por conta dos problemas acima]
+  [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
 
 a) Correção das transformações
@@ -29,12 +29,10 @@ b) Correção das ordenações
   [Sem modularização]
 a) Modularização
   
- - O Projeto não possui modularização! Todos os arquivos estao juntos e meisturados na mesma pasta
+ - O Projeto não possui modularização! Todos os arquivos estão juntos e misturados na mesma pasta
  
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Os algoritimos de ordenacao utilizam "ArrayList" oque e proibido ja que nessa fase da diciplina os alunos devem trabalhar apenas
+   - Os algoritmos de ordenação utilizam "ArrayList" o'que e proibido já que nessa fase da disciplina os alunos devem trabalhar apenas
      com array.
-
-
