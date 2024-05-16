@@ -1,0 +1,65 @@
+Grupo : Mateus Victor e 116805277538994733645
+
+1- Aspectos relacionados com instalação (10%)
+
+  [com probelams]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+   
+    - As regras para execução não foram muito claras, tive alguns problemas e demorei um pocuo até conseguir instalar
+      as dependencias do projeto. Poderiam ter utilizado uma ferrameta com o maven para tratar as depedencias.
+
+  [sem grandes problemas]
+b) Execução do projeto sem demais problemas: 
+
+    - O grupo poderia ter trabalhado em uma solução em que não precisa-se modificar o caminho dos diretórios das pastas
+      para que o projeto funciona-se em outra maquina
+    
+
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+   [com Problemas]
+    1- Converta todas as datas de lançamento (campo Release date) para o formato DD/MM/AAAA.
+
+     - O arquivo gerado não possui as datas transformadas!
+ 
+   [Sem Problemas]
+    2- Use o arquivo gerado na primeira transformação (games_formated_release_data.csv) para filtrar todos os games compatíveis com o sistema operacional linux. (campo Linux)
+
+     - Sem problemas aqui
+
+   [Com Problemas]
+    3- Use o arquivo gerado na primeira transformação (games_formated_release_data.csv) para filtrar todos os games que tem suporte a língua portuguesa. (campo: Supported languages)
+
+     - Tivemos uma discrepancia na quantidade de jogos em "portugues" contabilizada pelo aluno. 
+         *jogos em portugues: 468780
+         *jogos em portugues do aluno: 437970
+
+Gerar um arquivo chamado “portuguese_supported_games.csv”
+
+  [Com Problemas]
+b) Correção das ordenações
+
+   - O Grupo não ordena os arquivos! Eles criam classes que contem apenas 3 campos das colunas do arquivo (dentre eles o campo a ser ordenado)
+     e os ordena. Dessa forma o arquivo original permanece desordenado!  
+ 
+   - Todos os arquivos são ordenados em memória, e os arquivos já ordenandos são salvos.
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [sem modularizacao]
+a) Modularização
+  
+   - O projeto nao possui modularizacao, todos os arquivos .java estao em uma unica pasta. 
+      
+  [Com problemas]
+b) Algoritmos de ordenação
+   
+   - Utilizacao de estruturas de dados dinamica (ArrayList). Os algoritimos de ordenacao do grupo nao foram implementados com arrays
+     como foi solicitado, todos os algoritimos utilizam de alguma forma estruturas de dados dinamcias.
+     
+   - O grupo tambem utilizou um uma biblioteca para trabalhar com os arquivos .csv, a opencsv.
+
+
